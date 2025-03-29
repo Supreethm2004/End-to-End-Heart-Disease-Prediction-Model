@@ -19,7 +19,6 @@ Below are some visualizations used in the notebook:
 📈 **Correlation Heatmap:** To understand relationships between variables.
 ⚕ **Class Imbalance Check:** To verify the balance between heart disease and non-heart disease cases.
 
-![Sample Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 ## **Machine Learning Models Used**  
